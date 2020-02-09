@@ -1,5 +1,5 @@
 
-# Apple's AVCam sample app updated to get the instrinsic matrix
+# Apple's AVCam sample app updated to get the intrinsic matrix
 
 # AVCam: Building a Camera App
 
