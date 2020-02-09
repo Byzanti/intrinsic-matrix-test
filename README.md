@@ -1,3 +1,6 @@
+
+# Apple's AVCam sample app updated to get the instrinsic matrix
+
 # AVCam: Building a Camera App
 
 Capture photos with depth data and record video using the front and rear iPhone and iPad cameras.
